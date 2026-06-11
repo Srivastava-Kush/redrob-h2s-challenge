@@ -1,0 +1,8 @@
+data/candidates.jsonl
+data/*.jsonl.gz
+submission.csv
+__pycache__/
+.streamlit/
+.DS_Store
+Thumbs.db
+
